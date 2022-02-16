@@ -1,5 +1,5 @@
 //input
-const prompt = require("prompt-sync")();
+const prompt = require("prompt-sync")()
 let year = prompt("Enter the Year :- ")
 
 //check if leap year and output
