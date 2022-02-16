@@ -6,6 +6,7 @@ let c=parseInt(prompt("Enter the Thirsd Number :- "))
 
 let max=a+b*c
 let min=a+b*c
+
 //checking max and min in operations
 if(max<a%b+c){
     max=a%b+c
